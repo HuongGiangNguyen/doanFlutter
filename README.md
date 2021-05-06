@@ -21,3 +21,6 @@ A simple app to purchase cosmetics
 ![category](https://user-images.githubusercontent.com/50673522/117282277-c0e8bf80-ae8e-11eb-8e77-8ad187e8c71b.PNG)
 
 ![Home](https://user-images.githubusercontent.com/50673522/117282286-c3e3b000-ae8e-11eb-8083-c20f76c11272.PNG)
+
+![Detail](https://user-images.githubusercontent.com/50673522/117295462-14aed500-ae9e-11eb-83d6-eba81c7d59b1.PNG)
+
